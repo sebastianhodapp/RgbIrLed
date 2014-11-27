@@ -6,7 +6,7 @@
 
 // include core Wiring API
 //#include "Arduino.h"
-#include "RgbIrLed.h"
+#include "RgbIrLED.h"
 
 RgbIrLed::RgbIrLed(int type)
 {
