@@ -1,6 +1,7 @@
 /*
-  RgbIrLed.h - IR RGB Led Library.
-  Created by Alistair Allan, September 24, 2012.
+  RgbIrLED.h - IR RGB Led Library for Spark.
+  Originally created for Arduino by Alistair Allan, September 24, 2012
+  Ported for Spark by Sebastian Hodapp, November 2014
   Released into the public domain.
 */
 
