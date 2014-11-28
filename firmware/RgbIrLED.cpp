@@ -1,11 +1,12 @@
 /*
-  RGBled.cpp - IR RGB Led Library.
-  Created by Alistair Allan, September 24, 2012.
+  RgbIrLED.cpp - IR RGB Led Library for Spark.
+  Created by Alistair Allan, September 24, 2012
+  and ported for Spark by Sebastian Hodapp, November 2014
   Released into the public domain.
 */
 
 // include core Wiring API
-//#include "Arduino.h"
+#include "spark_wiring.h"
 #include "RgbIrLED.h"
 
 RgbIrLed::RgbIrLed(int type)
